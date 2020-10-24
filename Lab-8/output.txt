@@ -1,0 +1,24 @@
+[Jordan Welch - Lab-8] -> ./lab8.exe 
+69 found in search
+Min: 69
+Max: 6969
+Successor: 69
+Printed (pre-order):
+1337 420 69 6969 
+In order: 
+69 420 1337 6969 
+Deleted 420: 
+1337 69 6969 
+Time taken Insert(1000): 0.000526051
+
+Time taken Insert(2000): 0.0038535
+
+Time taken Insert(3000): 0.00595831
+
+Time taken Search(1000): 0.000491321
+
+Time taken Search(2000): 0.00502049
+
+Time taken Search(3000): 0.00741249
+
+[Jordan Welch - Lab-8] ->

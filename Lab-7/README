@@ -1,0 +1,4 @@
+a. The hash funtion makes sense becasue the key is multiplied by a prime, logically and'ed with a large number, and then dividing by another number, and this process makes the number almost impossible for a hacker to get in, outside of brute force.
+b. I made my string hash functions be different as the first accounts for scrambled words, like password vs wordpass, by multiplying each letter position by 10, while the second one only adds the values.
+c. The code could be improved by allowing input as to what is hashed.
+I also did the bonus which allows for a templated data type to be hashed.

@@ -1,0 +1,7 @@
+a. Quick Best: O(nlogn) Worst: O(n^2)
+   Merge Best: O(nlogn) Worst O(nlogn)
+b. Quick sort and merge sort seem to take around the same amount of time from my data, scaling up with the amount of elements in the array, with quick sort slightly underperforming merge sort in most cases.
+c. In general, the worst case is ascending order, and the best case seems to be descending order.
+d. In both quick and merge sort, the time taken increases with more elements, as expected.
+e. Bubble sort's time taken to run was much slower than merge or quick sort. Additionally, merge and quick sort are recursive functions while bubble sort is not. However, bubble sort was far easier to implement, possibly because I've used it more and are therefoe more used to it.
+f. It could be improved to be clearer what is happening and which sort is which. Additionally, I believe I could make merge and quick sort more efficient than they are, but after hours of work I just settled with what made it run.

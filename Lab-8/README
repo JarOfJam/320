@@ -1,0 +1,11 @@
+Jordan Welch - Cosc 320 - Lab 8 - 10/31/19
+
+a. I ran into trouble with calling nodes from the main, so I added an additional call function to call with the root node for a few of my functions.
+b. Insert Best: O(1) Insert Worst: O(n) Search Best: O(1) Search Worst: O(n)
+c. Time taken Insert(1000): 0.00053737
+   Time taken Insert(2000): 0.00386756
+   Time taken Insert(3000): 0.00594464
+   Time taken Search(1000): 0.000489145
+   Time taken Search(2000): 0.00526295
+   Time taken Search(3000): 0.0076728
+d. The code could be improved with more care given to functions in terms of calling a node.

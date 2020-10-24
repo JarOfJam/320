@@ -1,0 +1,62 @@
+bash-4.2$ ./main.exe 
+Total words: 466550
+Biggest bucket size: 6602
+Smallest bucket size: 9
+Total number of buckets: 10000
+Number of used buckets: 8192
+Average number of nodes in each bucket: 56.9519
+Total time taken: 0.27199
+Enter words to spellcheck: jordan wants a good grade 
+Misspelled word: jordan
+Suggestions:
+Gordan
+Jordan
+Lordan
+Yordan
+jorden
+Gordan
+Jordan
+Lordan
+Yordan
+Gordan
+Jordan
+Lordan
+Yordan
+borean
+bornan
+bordun
+bordar
+bordman
+Gordan
+Misspelled word: good
+Suggestions:
+bood
+food
+hood
+lood
+mood
+pood
+rood
+Good
+Wood
+geod
+glod
+goad
+gowd
+goof
+goog
+gook
+gool
+goon
+goos
+Number of misspelled words: 2
+Number of suggestions: 2811
+Time required to find suggestions: 16.6441
+jordan wants a good grade 
+jordan
+Save word to dictionary? Y/N
+N  
+good
+Save word to dictionary? Y/N
+Y
+bash-4.2$ 

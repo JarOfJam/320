@@ -1,0 +1,5 @@
+a. My approach to this was trial and error, seeing what worked and what didn't step by step
+b. Best and worst case is O(nlogn)
+c. The timing scales by nlogn for the amount of nodes in the heap
+d. VIP areas would be good so that people with higher status get in first, and bribery where those who pay more get results faster
+e. This code could be improved if I knew how to do priority queues better, and if I figured out how to do insert

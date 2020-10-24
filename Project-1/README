@@ -1,0 +1,12 @@
+Jordan Welch
+Cosc 320
+Project 1 Extension
+10/17/19
+
+	The extension given benefited me greatly, as I was able to improve upon and finish my code from the first time it was submitted, and even completed some bonus.
+	
+	My first program checks for the operations required: addition, subtraction, multiplication, scalar multiplication, transpose, and inverse. It does this with array sizes 2X2, 3X3, 5X5, and 10X10. In all of these cases, all work as intended.
+	
+	The second program handles the linear regression, simply calling the function I built into the matrix class files. The function calls an ifstream to take in the elements in points100.dat, and assigns the first column to matrix A, and the second column to matrix B. Following this, A and its transpose get multiplied together, and that product is inverted. This inverse is multiplied again by the transpose of A, and that product is multiplied one more time by B, giving the desired results.
+	
+	The bonus I did is the check for symmetry, comparing matrix[i][j] by matrix[j][i]. If it is not symmetric, it runs a function that multiplies the matrix by its transpose, inverses that product, and multiplies the inverse by the transpose of the matrix. This gives the inverse of the non-symmetric matrix. I also did the bonus to test if a function is non-singular by recursively testing if the determinant is zero or non-zero.

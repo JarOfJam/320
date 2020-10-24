@@ -1,0 +1,142 @@
+bash-4.2$ ./lab2.exe
+
+100: Ascending, Descending, Repreated, Random
+
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 1.9739e-05
+Swaps: 452
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 2.1924e-05
+Comparisons: 316
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 1.9098e-05
+Swaps: 395
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 1.8433e-05
+Comparisons: 316
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 1.9984e-05
+Swaps: 346
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 1.8246e-05
+Comparisons: 316
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 1.9476e-05
+Swaps: 362
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 1.8058e-05
+Comparisons: 316
+
+1000: Ascending, Descending, Repreated, Random
+
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.00028225
+Swaps: 7437
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.000224322
+Comparisons: 4932
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.000254883
+Swaps: 5841
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.000228692
+Comparisons: 4932
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.000254689
+Swaps: 6314
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.00022043
+Comparisons: 4932
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.000269814
+Swaps: 6605
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.000220196
+Comparisons: 4932
+
+10000: Ascending, Descending, Repreated, Random
+
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.00351713
+Swaps: 92160
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.00253095
+Comparisons: 64608
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.00316152
+Swaps: 82227
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.00251071
+Comparisons: 64608
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.00288008
+Swaps: 76815
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.00233224
+Comparisons: 64608
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.0028585
+Swaps: 81701
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:03 2019
+Time taken: 0.00230066
+Comparisons: 64608
+
+1000000: Ascending, Descending, Repreated, Random
+
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:04 2019
+Time taken: 0.276125
+Swaps: 13046065
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:04 2019
+Time taken: 0.201425
+Comparisons: 9884992
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:04 2019
+Time taken: 0.267898
+Swaps: 14109371
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:04 2019
+Time taken: 0.199957
+Comparisons: 9884992
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:05 2019
+Time taken: 0.273961
+Swaps: 13092244
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:05 2019
+Time taken: 0.154251
+Comparisons: 9884992
+Sorted Properly
+Quick Sort Done at Wed Sep 11 20:36:05 2019
+Time taken: 0.201793
+Swaps: 13029184
+Sorted Properly
+Merge Sort Done at Wed Sep 11 20:36:05 2019
+Time taken: 0.145486
+Comparisons: 9884992
+bash-4.2$ 

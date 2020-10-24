@@ -1,0 +1,4 @@
+Jordan Welch - Cosc 320 - Lab 10 - 11/21/19
+a. My code traverses through the map for each function, using builtin function in the std library.
+b. Insert Vertice Best: O(n) Insert Vertice Worst: O(n) Insert Edge Best: O(n) Insert Edge Worst: O(n) PrintBFS Best: O(n) PrintBFS Worst: O(n)
+c. The code could be improved by better managing the output of the program, especially during the printBfs fucntion.

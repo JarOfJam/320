@@ -1,0 +1,5 @@
+Jordan Welch - Cosc 320 - Project 2 - 11/10/19
+
+For my project I used a lot of global ints and linked lists in order to achieve the desired result. The problems with my code include no removal of repeated suggestions, poor output design, and a horrendous memory leak issue.
+My strings turn into a hashable key by converting the characters to numbers through ascii. My hash is a multiplicative hash function, resulting in about 8,000 values over the 400,000 words given.
+I did the bonus to highlight misspelled words in console (done in red), and I did the bonus to give the option to add words to the dictionary file.

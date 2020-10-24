@@ -1,0 +1,28 @@
+[Jordan Welch - Lab-4] -> ./lab4.exe 
+Enter number of nodes: 10
+Enter name: Jordan
+Enter name: Grace
+Enter name: Logan
+Enter name: Declan
+Enter name: Maddy
+Enter name: Jack
+Enter name: Lauren
+Enter name: Mike
+Enter name: Cam
+Enter name: Zach
+Sort Done at Wed Sep 25 23:59:50 2019
+Time taken: 1.1423e-05
+
+Zach (9)   
+Cam (8)   Mike (7)   
+Lauren (6)   Jack (5)   Maddy (4)   Declan (3)   
+Logan (2)   Grace (1)   Jordan (0)   
+
+Max: Zach
+
+Cam (8)   
+Mike (7)   Jack (5)   
+Lauren (6)   Grace (1)   Maddy (4)   Declan (3)   
+Logan (2)   Jordan (0)   
+[Jordan Welch - Lab-4] -> 
+[1] 0:vim- 1:bash*                                                                                                                                                                                              "hs101-91502" 23:59 25-Sep-19

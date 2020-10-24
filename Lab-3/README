@@ -1,0 +1,5 @@
+a. I used the pseudocode given and expirimented until I got my desired results
+b. O(nlogn) in best and worst case
+d. My time increases with the more variables by nlogn
+f. The worst case is ascending numbers, and the best case is descending. This result makes sense based on the nature of max heap to want the highest number at the root and the lowest at the leaves
+g. My code could be improved to have a better print function, allowing for more options than the first 64 elements of the heap array

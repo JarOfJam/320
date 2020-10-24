@@ -1,0 +1,57 @@
+[Jordan Welch - Lab-7] -> ./lab7.exe 
+String: 8 Hash: 14 Hex Hash: e
+String: password Hash: 145042197 Hex Hash: 8a52b15
+String: password Hash: 873 Hex Hash: 369
+String: wordpass Hash: 291590040 Hex Hash: 11614f98
+String: wordpass Hash: 873 Hex Hash: 369
+String: password Hash: 145042197 Hex Hash: 8a52b15
+[Jordan Welch - Lab-7] -> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0] 0:vim- 1:bash*                                                                                                                                                                                                 "hs101-05" 20:14 23-Oct-19

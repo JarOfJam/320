@@ -1,0 +1,40 @@
+[Jordan Welch - Lab-4] -> ./lab4.exe 
+Enter number of nodes: 20
+Enter name: A
+Enter name: B
+Enter name: C
+Enter name: D
+Enter name: E
+Enter name: F
+Enter name: G
+Enter name: H
+Enter name: I
+Enter name: J
+Enter name: K
+Enter name: L
+Enter name: I
+Enter name: J
+Enter name: K
+Enter name: L
+Enter name: M
+Enter name: N
+Enter name: O
+Enter name: P
+Sort Done at Wed Sep 25 23:58:00 2019
+Time taken: 1.9943e-05
+
+P (19)   
+O (18)   N (17)   
+M (16)   L (15)   K (14)   J (13)   
+I (12)   L (11)   K (10)   J (9)   I (8)   H (7)   G (6)   F (5)   
+E (4)   D (3)   C (2)   B (1)   A (0)   
+
+Max: P
+
+O (18)   
+N (17)   L (15)   
+M (16)   L (11)   K (14)   J (13)   
+I (12)   D (3)   K (10)   J (9)   I (8)   H (7)   G (6)   F (5)   
+E (4)   A (0)   C (2)   B (1)   
+[Jordan Welch - Lab-4] -> 
+[1] 0:vim- 1:bash*                                                                                                                                                                                              "hs101-91502" 23:58 25-Sep-19

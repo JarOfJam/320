@@ -1,0 +1,27 @@
+void Dictionary::deleteNode(std::string key) {
+        int h = hash(key);
+        Node* delNode = LList[h];
+        if(delNode == NULL) {
+                return;
+        }
+        while(delNode != NULL) {
+                if(delNode->data == key) {
+                        if(delNode->next != NULL) {
+                                if(delNode->prev != NULL) {
+                                        delNode->next->prev = delNode->prev;
+                                        delNode->prev->next = delNode->next;
+                                }
+                                else {
+                                        delNode->next->prev = NULL;
+                                }
+                        }
+                        else if(delNode->prev != NULL) {
+                                delNode->prev->next = NULL;
+                        }
+                        delete delNode;
+                        return;
+                }
+                delNode = delNode->next;
+        }
+        std::cout << "Did not delete, not in list" << std::endl;
+}
